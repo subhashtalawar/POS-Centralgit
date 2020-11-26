@@ -2,4 +2,8 @@ Hi this is my first project and i am Subhash from Mumbai
 
 Hi this is my 2nd project, i am talawar from singapore
 This is my second commit, i am from mumbai
+<<<<<<< HEAD
 hi
+=======
+Hi this is subhash, i am updating it from singapore
+>>>>>>> 43189f18a118b431646de7f65521bd99c6e9cb49
